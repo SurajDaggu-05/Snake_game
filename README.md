@@ -67,7 +67,7 @@ Contains the `Scoreboard` class and handles:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SurajDaggu-05/Snake-Game.git
+git clone https://github.com/SurajDaggu-05/Snake_game.git
 ```
 
 ### 2. Navigate to the project folder
